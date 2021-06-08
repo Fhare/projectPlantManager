@@ -16,11 +16,11 @@
 
 **Link do figma:** https://www.figma.com/file/SUlNI1hqEurfB0M8zI96oS/PlantManager-(Copy)?node-id=0%3A1
 
-## Sobre o projeto
+## 👥 Sobre o projeto
 
 Aplicação mobile desenvolvida em uma semana de programação. O objetivo do projeto é ajudar pessoas que gostam de suas plantinhas os lembrando de quando rega-las, de quanto em quanto tempo isso deve acontecer e mais informações sobre elas.
 
-## Técnologias usadas:
+## 💻 Técnologias usadas:
 
  - React native expo
  - Typescript
