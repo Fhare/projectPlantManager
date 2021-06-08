@@ -27,7 +27,7 @@ Aplicação mobile desenvolvida em uma semana de programação. O objetivo do pr
  - Styled components
  - JSON server
 
-## Como executar 
+## 🚀 Como executar 
 
 
   ```bash
