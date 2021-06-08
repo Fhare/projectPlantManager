@@ -32,22 +32,27 @@ Aplicação mobile desenvolvida em uma semana de programação. O objetivo do pr
 
   ```bash
     # Clonar o repositório 
+    
     - git clone https://github.com/Fhare/plantmanager
     
     # Na pasta raiz do projeto executar npm ou yarn install
+    
     - npm install ou yarn install
     
     # Logo após clonar o projeto e instalar as dependências
     # Está na hora de roda-lo.
     
     # Primeiro use o comando npm, expo ou yarn start no terminal
+    
     - npm, expo ou yarn start
     
     # Depois basta copiar e colar o código abaixo no terminal e,
     # substituir onde está "yourIPAddress" pelo o seu endereço IP
+    
     - json-server ./src/services/server.json --yourIPAddress --port 3333
     
     # E por fim, abrir o projeto expo no celular com o QRCode.
+    
     # Ou nos emuladores com os links específicos do expo.
   ```
   
