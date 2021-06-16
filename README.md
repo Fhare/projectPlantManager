@@ -51,6 +51,10 @@ Aplicação mobile desenvolvida em uma semana de programação. O objetivo do pr
     
     - json-server ./src/services/server.json --yourIPAddress --port 3333
     
+    # Agora dentro do arquivo service/api.js
+    # Altere a baseUrl para o IP da sua maquina
+    # O mesmo IP usado no código acima.
+    
     # E por fim, abrir o projeto expo no celular com o QRCode.
     
     # Ou nos emuladores com os links específicos do expo.
